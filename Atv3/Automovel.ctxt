@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Automovel
+comment1.params=modelo\ tipoMotor
+comment1.target=Automovel(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ ligarMotor()
+comment3.params=
+comment3.target=void\ desligarMotor()
+numComments=4

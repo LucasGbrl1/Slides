@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pentagono
+comment1.params=lado\ apotema
+comment1.target=Pentagono(double,\ double)
+comment2.params=
+comment2.target=double\ calcularArea()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Aviao
+comment1.params=modelo\ comercial
+comment1.target=Aviao(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ ligarMotor()
+comment3.params=
+comment3.target=void\ desligarMotor()
+numComments=4

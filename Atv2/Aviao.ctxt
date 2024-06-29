@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Aviao
+comment1.params=
+comment1.target=Aviao()
+comment2.params=
+comment2.target=void\ acelerar()
+comment3.params=
+comment3.target=void\ freiar()
+comment4.params=
+comment4.target=void\ navegar()
+comment5.params=
+comment5.target=java.lang.String\ getAutonomiaVoo()
+comment6.params=autonomiaVoo
+comment6.target=void\ setAutonomiaVoo(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getTipoAsa()
+comment8.params=tipoAsa
+comment8.target=void\ setTipoAsa(java.lang.String)
+numComments=9

@@ -1,0 +1,3 @@
+interface Aquatico {
+    void navegar();
+}
